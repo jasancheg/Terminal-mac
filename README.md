@@ -4,3 +4,4 @@
 
 - [Basic commands](https://github.com/jasancheg/Terminal-mac/blob/master/basic-commands.md). Simple Web Application
 - [personalize the command prompt](https://github.com/jasancheg/Terminal-mac/blob/master/personalize.md). Rendered/Main process comunications (Chromium IPC)
+- [Command lines tools](https://github.com/jasancheg/Terminal-mac/blob/master/tools.md). Some command lines tools (Mac OS)
